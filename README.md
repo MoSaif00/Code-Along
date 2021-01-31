@@ -2,7 +2,7 @@
 
 ![alt text](appsGIF/1.gif)
 
-### ✨ [Demo]()
+### ✨ [Demo](https://mosaif00.github.io/Code-Along/RockPaperScissorGame/index.html)
 
 ##
 
@@ -10,7 +10,7 @@
 
 ![alt text](appsGIF/2.gif)
 
-### ✨ [Demo]()
+### ✨ [Demo](https://mosaif00.github.io/Code-Along/IssueTracker/index.html)
 
 ##
 
@@ -18,7 +18,7 @@
 
 ![alt text](appsGIF/3.gif)
 
-### ✨ [Demo]()
+### ✨ [Demo](https://mosaif00.github.io/Code-Along/booklistApp/index.html)
 
 ##
 
@@ -26,7 +26,7 @@
 
 ![alt text](appsGIF/4.gif)
 
-### ✨ [Demo]()
+### ✨ [Demo](https://mosaif00.github.io/Code-Along/simple-calculator/index.html)
 
 ##
 
@@ -34,7 +34,7 @@
 
 ![alt text](appsGIF/5.gif)
 
-### ✨ [Demo]()
+### ✨ [Demo](https://mosaif00.github.io/Code-Along/weight-convertor/index.html)
 
 ##
 
@@ -42,7 +42,7 @@
 
 ![alt text](appsGIF/6.gif)
 
-### ✨ [Demo]()
+### ✨ [Demo](https://mosaif00.github.io/Code-Along/NumberFactsApp/index.html)
 
 ##
 
